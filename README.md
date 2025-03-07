@@ -1,4 +1,4 @@
-# Spam Email Detection
+# SpamShield
 
 ## Project Description
 This project is a **Spam Email Detector** built using **Python, Flask, and Machine Learning**. It uses the **Naive Bayes classifier** with **TF-IDF vectorization** to detect whether a given email message is spam or not.
